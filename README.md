@@ -3,7 +3,7 @@ Implementation of Approximate Rank-Order Clustering (AROC) algorithm in [[1604.0
 
 Note:
 - Features extracted by any models can be used
-- FLANN is can be swapped out for other k-nn methods
+- FLANN can be swapped out for other k-nn methods
 
 | | F-measure |
 | :---: | :---: |
