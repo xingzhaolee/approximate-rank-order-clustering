@@ -5,6 +5,11 @@ Note:
 - Features extracted by any models can be used
 - FLANN is can be swapped out for other k-nn methods
 
+| | F-measure |
+| :---: | :---: |
+| This implementation | ~0.88 |
+| Reported | 0.87 |
+
 ## Instructions
 ```bash
 mkdir extracted-features
